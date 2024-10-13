@@ -2,7 +2,10 @@
 
 ## About me
 
-Hi, I'm Mona. You might recognize me as GitHub's mascot.
+Hallo, Ik ben Joop. Ik kom van het groene woud.
+
+## 
+
 
 | Rank | THING-TO-RANK |
 |-----:|---------------|
